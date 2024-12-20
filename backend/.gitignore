@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+__pycache__/
+db.sqlite3
+.env
+.env.local
+media/
+static/
+.idea
